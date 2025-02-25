@@ -1,0 +1,6 @@
+Darius Tudose
+Aplicaciones Web
+<<<<<<< .merge_file_rVxWZg
+=======
+Curso 24/25
+>>>>>>> .merge_file_BhXGpj
